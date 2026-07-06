@@ -1691,17 +1691,6 @@ export default function CapitalCatalog() {
               >
                 Каталог способов использования капитала
               </div>
-              <h1
-                style={{
-                  fontFamily: "'Space Grotesk', sans-serif",
-                  fontSize: 26,
-                  fontWeight: 700,
-                  color: "#ECE9E2",
-                  margin: "0 0 8px 0",
-                }}
-              >
-                Что вообще есть
-              </h1>
               <p
                 style={{
                   fontFamily: "'Newsreader', serif",
