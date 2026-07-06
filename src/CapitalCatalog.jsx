@@ -1675,7 +1675,7 @@ export default function CapitalCatalog() {
         boxSizing: "border-box",
       }}
     >
-      <div style={{ maxWidth: 640, margin: "0 auto" }}>
+      <div style={{ maxWidth: 1200, margin: "0 auto" }}>
         {!selected && !compareOpen && (
           <>
             <div style={{ marginBottom: 28 }}>
